@@ -246,7 +246,6 @@ Instead of person-to-person, it's **group-to-group** talk.
 
 This decides **which tokens to keep** based on rules.
 
----
 
 #### A. Fixed Importance
 
@@ -285,7 +284,6 @@ Like picking top scorers in a test dynamically.
 
 This is about **how many** tokens each part of the model gets to use.
 
----
 
 #### A. Uniform Budget
 
@@ -317,11 +315,10 @@ Like giving senior employees more resources.
 
 ---
 
-### 4. **KV Cache Management** (Which keys/values to keep during decoding)
+### 🧩 4. **KV Cache Management** (Which keys/values to keep during decoding)
 
 This is for **text generation** where you can’t keep all history due to memory limits.
 
----
 
 #### A. Sliding Window
 

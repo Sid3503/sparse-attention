@@ -178,6 +178,5 @@ Global token adds **long-distance awareness**!
 | Attention        | Helps tokens focus on others to understand meaning.                    |
 | Full Attention   | Looks at **all** tokens (slow for long sequences).                     |
 | Sparse Attention | Looks at a **few** nearby or important tokens (faster).                |
-| Your Code        | Uses a mix of **local** + **global** attention for better performance. |
 
 ---
